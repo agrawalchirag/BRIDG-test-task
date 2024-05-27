@@ -31,7 +31,7 @@ To set up the project locally on your machine, follow the steps below:
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/agrawalchirag/BRIDG-test-task.git)
 ```
 
 2. Navigate to the project directory:
